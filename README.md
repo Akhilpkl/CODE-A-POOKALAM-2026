@@ -19,15 +19,14 @@ I created this Pookalam using Python, inspired by the traditional flower designs
 
 ## ✨ Features
 
-- Colorful concentric floral patterns
-- Radial and mathematical symmetry
-- Detailed flower and petal arrangements
-- Lotus-inspired central design
-- Decorative green leaf patterns
-- Traditional diya elements
-- Multiple layers of geometric floral motifs
-- High-resolution output
-- Fully programmatic Pookalam generation
+- Bright and colorful flower patterns
+- Traditional Onam-inspired design
+- Different layers of flowers and petals
+- A detailed lotus design in the center
+- Green leaves and small floral decorations
+- Diya designs around the Pookalam
+- Symmetrical patterns for a balanced look
+- High-quality output generated using Python
 
 ## 🚀 How to Run
 
